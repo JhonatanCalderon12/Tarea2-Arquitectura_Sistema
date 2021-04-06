@@ -86,7 +86,7 @@ Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hospit
 
 # Mejoras :wrench:
 - Se migró la base de datos MySQL versión 8.0.20 en AWS con 2 GB de RAM
-- Se cambio el lenguaje del sistema de English a Español
+- Se cambio el lenguaje del sistema de Inglés a Español
 - Se establecio la arquitectura MVC (Modelo-Vista-Controlador) para el sistema
 
 
