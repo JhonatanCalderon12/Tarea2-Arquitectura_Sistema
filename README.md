@@ -79,6 +79,7 @@ Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hospit
 ## Ejecutar Aplicación ✔️
 
    **10. Click derecho sobre el proyecto y seleccionar "Run"**
+   
    **11. Una vez abierto la aplicación colocar las siguientes credenciales**
 	- Usuario: admin
 	- Contraseña: passwordadmin
