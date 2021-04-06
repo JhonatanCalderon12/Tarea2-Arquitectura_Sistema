@@ -5,7 +5,7 @@ Estudio y realización de cambios en la arquitectura de un sistema existente
 # Autor principal :man:
 
 Abdul Basit Shahid
-- https://github.com/warhoax/Hospital-Management-System/blob/master/README.md
+- https://github.com/warhoax/Hospital-Management-System
 
 
 # Requisitos:clipboard:
