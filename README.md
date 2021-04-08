@@ -81,14 +81,16 @@ Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/hospit
    **10. Click derecho sobre el proyecto y seleccionar "Run"**
    
    **11. Una vez abierto la aplicación colocar las siguientes credenciales**
+   
 	- Usuario: admin
+	
 	- Contraseña: passwordadmin
 
 
 # Mejoras :wrench:
-- Se migró la base de datos MySQL versión 8.0.20 en AWS con 2 GB de RAM
-- Se cambio el lenguaje del sistema de Inglés a Español
-- Se establecio la arquitectura MVC (Modelo-Vista-Controlador) para el sistema
+- Se migró la base de datos a la nube de aws con una instancia MySQL versión 8.0.20 y 2 GB de RAM
+- Se cambio el lenguaje del sistema de Inglés a Español con excepción de los mensajes, alertas y errores.
+- Se estableció la estructura de paquetes a uno de base de datos, modelo y vista
 
 
 # Coautores :man:  :man:  :girl:
